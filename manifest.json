@@ -12,7 +12,7 @@
 
   "content_scripts": [
     {
-      "matches": ["*://*.mozilla.org/*"],
+      "matches": ["*://*.trymyui.com/workers"],
       "js": ["borderify.js"]
     }
   ]
